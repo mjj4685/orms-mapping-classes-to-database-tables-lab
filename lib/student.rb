@@ -4,3 +4,6 @@ class Student
   #  with DB[:conn]  
   
 end
+
+
+# "test only 1"
